@@ -1,4 +1,4 @@
-# 红包扫雷/扫雷红包  app版本以及h5版本
+# 红包扫雷/扫雷红包  app版
 
 需要源码或者细节方面的请联系telegrama：[https://t.me/ye0902](https://t.me/ye0902)
 
